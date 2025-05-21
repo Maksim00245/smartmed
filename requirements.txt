@@ -5,4 +5,5 @@ attrs==23.1.0
 multidict==6.0.4
 yarl==1.9.2
 aiofiles==23.1.0
-g4f
+git+https://github.com/xtekky/gpt4free.git
+
